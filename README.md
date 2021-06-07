@@ -9,7 +9,7 @@
  ## Tips:
  If you want to change the usernames with your own usernames, you can just edit the content in the usernames.txt file.
 
- ## Result on Flooding:
+ ## Output Result on Flooding:
  ![](image.png)
 
  ## YouTube Video on Demo:
