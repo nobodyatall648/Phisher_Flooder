@@ -15,4 +15,7 @@
  ## YouTube Video on Demo:
  https://youtu.be/K2WOh5JYEhY
 
+ ## Article for you to read:
+ Think Before You Scan (Phishing QR Code): 
  
+ https://bryanleong98.medium.com/think-before-you-scan-phishing-qr-code-242bd6c2aca0?source=social.linkedin
